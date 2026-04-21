@@ -1,20 +1,23 @@
-# 한신대학교 자유전공학부 이다경입니다.
-## 한신대학교 자유전공학부 이다경입니다.
-### 한신대학교 자유전공학부 이다경입니다.
-##### 한신대학교 자유전공학부 이다경입니다.
-## Hi there 👋
+## 👋  한신대학교 자유전공학부 이다경입니다.
 
-<!--
-**lee0118-ops/lee0118-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  # 👋 안녕하세요! 기술과 예술의 경계를 탐구하는 [본인 이름]입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI와 소프트웨어 기술력을 바탕으로, 문화 콘텐츠와 영상 이론의 깊이를 더하는 미래의 콘텐츠 전문가를 꿈꾸고 있습니다.
+
+## 🚀 About Me
+* **관심 분야:** 인공지능(AI), 소프트웨어 개발, 영상 이론(Image Theory), 문화 콘텐츠 기획
+* **철학:** 단순한 기술 구현을 넘어, 상징과 연출이 담긴 콘텐츠가 사용자에게 전달하는 가치를 고민합니다.
+* **학습 여정:** 현재 한신대학교에서 인문학적 소양과 공학적 기초를 동시에 쌓으며, 학문 간 융합을 시도하고 있습니다.
+
+## 🛠️ Tech Stack & Skills
+### 💻 Engineering
+* **Languages:** Python (학습 중)
+* **Interests:** AI 모델링, 데이터 시각화, 소프트웨어 아키텍처
+
+## 💬 Communication Style
+* **Role:** 대규모 그룹 내에서의 효율적인 커뮤니케이션과 조율을 지향합니다.
+* **Approach:** 명확하고 직설적인 피드백을 통해 효율적인 협업 환경을 만드는 것을 선호합니다.
+
+---
+*Last Updated: 2026. 04. 21.*
